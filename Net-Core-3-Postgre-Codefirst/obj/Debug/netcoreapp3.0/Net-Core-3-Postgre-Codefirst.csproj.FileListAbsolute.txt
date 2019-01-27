@@ -1,0 +1,10 @@
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.deps.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.runtimeconfig.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.runtimeconfig.dev.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.pdb
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.AssemblyInfo.cs
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Postgre-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Postgre-Codefirst.pdb
