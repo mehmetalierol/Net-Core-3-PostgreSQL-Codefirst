@@ -23,4 +23,4 @@ Dont forget to change appsettings.js (there are two files)
 
 Net-Core-3-Postgre-Codefirst/bin/Debug/netcoreapp3.0/appsettings.json
 
-Net-Core-3-PostgreSQL-Codefirst/Net-Core-3-Postgre-Codefirst/appsettings.json
+Net-Core-3-PostgreSQL-Codefirst/appsettings.json
