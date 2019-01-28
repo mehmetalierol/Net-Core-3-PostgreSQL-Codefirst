@@ -30,10 +30,7 @@ namespace Net_Core_3_Postgre_Codefirst.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var config = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json")
-                .Build();
-            optionsBuilder.UseNpgsql(config.GetConnectionString("DefaultConnection"));
+
         }
 
         #endregion OnConfiguring
